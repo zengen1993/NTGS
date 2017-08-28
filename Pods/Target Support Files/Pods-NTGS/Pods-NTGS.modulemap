@@ -1,0 +1,6 @@
+framework module Pods_NTGS {
+  umbrella header "Pods-NTGS-umbrella.h"
+
+  export *
+  module * { export * }
+}
